@@ -1,0 +1,64 @@
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: rgb(248, 241, 239);
+    
+    text-align: center;
+    color: black;
+    padding: 22px;
+    font-size: 30px;
+    
+    
+    
+}
+.imagem{
+ float: left;
+ clear: left;
+
+}
+body{
+    margin: 2px;
+    background-color: #89CFF0;
+}
+p{
+color: black;
+}
+.rodape{
+    background-color: black;
+    padding: 0;
+    margin: 10px;
+
+}
+footer {
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+    
+
+}
+
+
+.redes{
+
+text-align: center;
+width: 100%;
+
+
+}
+.jornal{
+    text-align: center;
+
+}
+#title{
+
+    width: 100%;
+}
+body{
+    margin: 12px;
+    
+}
+#proteçao{
+    clear: left;
+}
